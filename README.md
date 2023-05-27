@@ -1,2 +1,2 @@
 # dsa
-This contains dsa problems
+This repo contains practise problems related to dsa preparations.
